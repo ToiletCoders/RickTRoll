@@ -18,14 +18,7 @@ This code freezes their mouse and they have to watch the video
 
 ### Built With
 
-* [Java](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Java](https://www.java.com/)
 
 ### Prerequisites
 
@@ -35,7 +28,6 @@ Java
 ## Usage
 
 Just clone this Repository or copy the code.
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -49,19 +41,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-<!-- CONTACT -->
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/RickTRoll.svg?style=for-the-badge
 [contributors-url]: https://github.com/toiletcoders/RickTRoll/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/toiletcoders/RickTRoll.svg?style=for-the-badge
