@@ -1,10 +1,10 @@
-# RickTRoll
-
 [![Contributors][contributors-shield]][contributors-url]
-<!--[[![Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-![Issues][issues-shield]][issues-url]-->
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+# RickTRoll
 
 ## About The Project
 Include this code to troll your friends when they execute your code.  
@@ -14,11 +14,6 @@ This code freezes their mouse and they have to watch the video
 
 * [Java](https://www.java.com/)
 
-### Prerequisites
-
-Java
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Just clone this Repository or copy the code.
@@ -41,13 +36,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/RickTRoll.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/RickTRoll.svg
 [contributors-url]: https://github.com/toiletcoders/RickTRoll/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/toiletcoders/RickTRoll.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/toiletcoders/RickTRoll.svg
 [forks-url]: https://github.com/toiletcoders/RickTRoll/network/members
-[stars-shield]: https://img.shields.io/github/stars/toiletcoders/RickTRoll.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/toiletcoders/RickTRoll.svg
 [stars-url]: https://github.com/toiletcoders/RickTRoll/stargazers
-[issues-shield]: https://img.shields.io/github/issues/toiletcoders/RickTRoll.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/toiletcoders/RickTRoll.svg
 [issues-url]: https://github.com/toiletcoders/RickTRoll/issues
-[license-shield]: https://img.shields.io/github/license/toiletcoders/RickTRoll.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/toiletcoders/RickTRoll.svg
 [license-url]: https://github.com/toiletcoders/RickTRoll/blob/master/LICENSE
