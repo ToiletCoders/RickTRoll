@@ -1,15 +1,9 @@
 # RickTRoll
 
-Include this code to troll your friends when they execute your code.  
-This code freezes their mouse and they have to watch the video
-
-
-# [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+<!--[[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![Issues][issues-shield]][issues-url]-->
 [![MIT License][license-shield]][license-url]
 
 ## About The Project
@@ -44,6 +38,8 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+# [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/RickTRoll.svg?style=for-the-badge
 [contributors-url]: https://github.com/toiletcoders/RickTRoll/graphs/contributors
