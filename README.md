@@ -54,4 +54,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/toiletcoders/RickTRoll.svg?style=for-the-badge
 [issues-url]: https://github.com/toiletcoders/RickTRoll/issues
 [license-shield]: https://img.shields.io/github/license/toiletcoders/RickTRoll.svg?style=for-the-badge
-[license-url]: https://github.com/toiletcoders/RickTRoll/blob/master/LICENSE.txt
+[license-url]: https://github.com/toiletcoders/RickTRoll/blob/master/LICENSE
